@@ -26,3 +26,12 @@
 
 ![](https://lh3.googleusercontent.com/j51B5DhK4UIyEbwG0NNKiMqEI_YrFTBBXYFK4jVqt2nBkl9JKimoXsnoqkgYhG69ivewzKpV=w26-h26-e365)
 [Google Keep Chrome](https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi) 方便将内容保存到 Google Keep
+
+![](https://lh3.googleusercontent.com/Eb8igNFfrgc1Pdayp7bh_h-IKjPQL138YCkknAVxEyYTBThricwo_XG3bFdgoqj_PiTGwFc=w26-h26-e365)
+[React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+
+![](https://lh3.googleusercontent.com/Yjkmm1z2J__STGj7edsrx_88vA1PKt7Ox07g0CXwBT5ntR7_u8HUSrUDVYVQr_mfPu18wyVl5d0=w26-h26-e365)
+[Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+
+![](https://lh3.googleusercontent.com/gxz4GvoPL2Ghkob5RysW1ulnoBDF4oeJRkcZBnuOnWCLISOvTxGLgJosTgeehxL9P07eJGcI_w=w26-h26-e365)
+[MEGA](https://chrome.google.com/webstore/detail/mega/bigefpfhnfcobdlfbedofhhaibnlghod)
